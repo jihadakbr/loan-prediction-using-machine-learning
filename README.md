@@ -6,7 +6,7 @@ An organization has a goal of forecasting which individuals are more likely to d
 
 ## Dataset Source
 
-[https://www.kaggle.com/datasets/subhamjain/loan-prediction-based-on-customer-behavior](https://www.kaggle.com/datasets/subhamjain/loan-prediction-based-on-customer-behavior)
+[Loan Prediction Based on Customer Behavior (Kaggle)](https://www.kaggle.com/datasets/subhamjain/loan-prediction-based-on-customer-behavior)
 ## Content of Dataset
 
 1. ID: id of the user
@@ -31,30 +31,18 @@ An organization has a goal of forecasting which individuals are more likely to d
 Jupyter notebook: 
 * data exploring and cleansing
 * data visualization
-* looking for the best suitable machine learning model 
-* create a GUI
+* looking for the best suitable machine learning model
 ## Results
 
-![Results of Machine Learning Model](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpWVYFf9_xjaxBFE-E6HQbieYpOfFy0JEhRaUG3LupRuk3xMKZMfJ830-EhVSlwTnIRyX3HkcGg_m4mm__GJxC-h__37qg2OlM6XFNObBywK6xRzBLzpmW4t0KjNi1jHjq91VoIMyHxHCKOsCYX-KrVj-wEwfmzkStuL_QTus0PEGS7j48PV46GYKo/s1600/results-of-machine-learning-model.png)
+Due to the limitations of GitHub, you can download the trained_model_w_pipe.joblib file from this [Google Drive link](https://drive.google.com/file/d/1PaB_XKl928h76PNOrLa7Y-6AXgXFSvQC/view?usp=sharing) (200 mb)
 
-![GUI for Loan Prediction Using Machine Learning](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifYOEIPGq1TORVGRqLIHXSnPtAEsTtWgcB61iyUZg22AbDEJc2Np5FDpi-pkAoUi8Ctre6x3gphyBsnlYetxbrLIUgVfZqIdN4f6u27TFSsLUV2hpOqeNHjbQvTzh8jykXfk12zP8MbNV11IsZGzYo-fOvodi3bGovwCnTg0RipiADYnUMyENw9KPy/s1600/gui-loan-prediction-using-machine-learning.png)
+![Results of Machine Learning Model](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibjbW1CQG86kv47rxR-7tvsB73qy0694sucg2kC8KHB1rTAC9BIz58k6oGaRqzDSIqoc16yQ5O4ZMJVdpF3kb9GYf5_4tHV0pBqPsT5qz0rfzwv8ETVlu-Sr9HJKyCsz0rDHDBxJlv_il5mSWdWc6Sh2SVBT4OxxBiqb9RGzjUE0IJDC-uCHgHigKG/s1600/results-of-machine-learning-model.png)
 
-![GUI for Loan Prediction Using Machine Learning 2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJrvFmagHzvpc3vgLDIczMaon5aQli9BuDMvrWnlZCCNt88twx8AKg-DAU9__U9-Qc4y0M-RPaXBCN-MRVcxWUYYz42YKNEYS6lTbS7fIqR4cx-EgvA8wY0ovdVv9vUuPxfHKjlqYy1YY5v1DxQk2PLByNBGPnN3BCVAev5SCLAK99RerUuaiWiN3j/s1600/gui-loan-prediction-using-machine-learning-2.png)
-## Required Files to Run the GUI
-
-1. ET_model
-2. scaler_ET
-3. prof_c.csv
-4. city_c.csv
-5. state_c.csv
-
-Run the "Loan Prediction Using Machine Learning.ipynb" first to get those files.
+![Results of Machine Learning Model 2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSpJTln8IJe_WqMQdhA6b2RVQZpj8lOi0PQ3d5hTwR5n24hbejsPb98WQBmovQVnf7GnFT4XouVFyaTsYs0VKcYy_nB9rQwt3uo2J_KKuEMb7MSbq56ayi_p3e_YamPb463nSSlAt8I75MGZSn1j-TvChGQVnSeHJdA6h2sHzi3_sWbaHioMBYvMy6/s1600/results-of-machine-learning-model-2.png)
 ## Conclusions
 
 * The datasets contain no missing values, duplicates, or outliers.
 
 * 87.7% of people are considered non-defaulters, indicated by a risk flag of 0, while the remaining 12.3% are identified as defaulters, indicated by a risk flag of 1.
 
-* The Extra Trees Classifier model is deemed the most appropriate for the dataset, with an average cross-validation score of 90.13%. The Random Forest Classifier model is also a viable option, with a score of 90.10%.
-
-* A successful graphical user interface (GUI) has been created.
+* The Random Forest Classifier model is deemed the most appropriate for the dataset, with an average cross-validation score of 89.30%. The Extra Trees Classifier model is also a viable option, with a score of 89.22%.
