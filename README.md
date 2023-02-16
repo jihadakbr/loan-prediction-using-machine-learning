@@ -38,7 +38,7 @@ Due to the limitations of GitHub, you can download the trained_model_w_pipe.jobl
 
 ![Results of Machine Learning Model](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibjbW1CQG86kv47rxR-7tvsB73qy0694sucg2kC8KHB1rTAC9BIz58k6oGaRqzDSIqoc16yQ5O4ZMJVdpF3kb9GYf5_4tHV0pBqPsT5qz0rfzwv8ETVlu-Sr9HJKyCsz0rDHDBxJlv_il5mSWdWc6Sh2SVBT4OxxBiqb9RGzjUE0IJDC-uCHgHigKG/s1600/results-of-machine-learning-model.png)
 
-![Results of Machine Learning Model 2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSpJTln8IJe_WqMQdhA6b2RVQZpj8lOi0PQ3d5hTwR5n24hbejsPb98WQBmovQVnf7GnFT4XouVFyaTsYs0VKcYy_nB9rQwt3uo2J_KKuEMb7MSbq56ayi_p3e_YamPb463nSSlAt8I75MGZSn1j-TvChGQVnSeHJdA6h2sHzi3_sWbaHioMBYvMy6/s1600/results-of-machine-learning-model-2.png)
+![Results of Machine Learning Model 2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEoZaWXcKT6fSFgLnbQMlALzpvRGRLMhtpGyYWXqz5ac1cHiSqnB1WmLevUy8c9iaC1Z-9To5TWXubuEber1nAPGUGWUxwyYR_HZ_Z9LrfMBg2me6R5CE3sVHQt58pRETf24shO3_x74kZ4UWGBePNYLoomF7DpGcj-VKc_qnFlCF4QN1Np_2gE-ZE/s1600/results-of-machine-learning-model-2.png)
 ## Conclusions
 
 * The datasets contain no missing values, duplicates, or outliers.
